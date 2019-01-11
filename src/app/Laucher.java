@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Laucher {
 
+	//test
 	public static Scanner s = new Scanner(System.in);
 	
 	public static void main(String[] args) {
