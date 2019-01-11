@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Laucher",
+            "request": "launch",
+            "mainClass": "app.Laucher",
+            "projectName": "Connect4",
+            "console":"integratedTerminal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "Connect4",
+            "console": "integratedTerminal"
+        }
+    ]
+}
